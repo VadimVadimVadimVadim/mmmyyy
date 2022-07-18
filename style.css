@@ -6,7 +6,7 @@ main {
 .mycont {
   display: grid;
   grid-template-columns:repeat(4,24%);
-  grid-template-rows:15% 15% 15% 30% 25%;
+  grid-template-rows:15% 15% 15% 30% 20%;
   grid-gap: 2rem;
   padding-top: 35px;
 }
